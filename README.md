@@ -20,3 +20,7 @@ Sales Analytics Dashboard built using:
 pip install -r requirements.txt
 
 python -m streamlit run src/app.py
+
+## Check out :
+
+https://learning-dashboard001.streamlit.app/
